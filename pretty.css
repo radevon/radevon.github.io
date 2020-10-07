@@ -44,11 +44,12 @@ h4 {
 .description {
     margin-top: 5px;
     text-align: justify;
+    text-indent: 25px;
 }
 
 .avatar .card-title{
     padding: 9px !important;
-    background-color: #627b6470;
+    background-color: #aeaeae70;
     width: 100%;
     text-align: center;
 }
@@ -60,4 +61,20 @@ h4 {
 
 .progress .determinate {
     background-color: #5c8658;
+}
+
+img.contact-icons {
+ width:18px;
+ height:18px;
+ vertical-align: text-bottom;
+}
+
+.card .card-action a {
+    color: #456e4fcf !important;
+    text-align: center;
+    display: inherit;
+}
+
+.card .card-action a:hover{
+    text-decoration: underline;
 }
