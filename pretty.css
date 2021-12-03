@@ -86,6 +86,7 @@ img.contact-icons {
 .card .card-image img {
     transition:all 0.4s ease-in-out;
     cursor: pointer;
+    height: 230px;
 }
 
 .card .card-image img:hover {
