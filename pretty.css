@@ -20,6 +20,9 @@ body {
     background: linear-gradient(white,#f9f9f9);
 }
 
+#leftbar{
+    background-color: #e8e8e8;;
+}
 
 .row .col{
     padding: 5px 1.2rem;
@@ -91,4 +94,8 @@ img.contact-icons {
 
 .card .card-image img:hover {
     transform: scale(1.05,1.05);
+}
+
+.time-location {
+    display: flex;
 }
